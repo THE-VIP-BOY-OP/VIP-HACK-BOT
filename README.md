@@ -3,13 +3,13 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/MaybeBots/SessionBot?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/MaybeBots/SessionBot?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/MaybeBots/SessionBot?style=for-the-badge" alt="Watchers"> 
+    <img src="https://img.shields.io/github/stars/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Watchers"> 
 <br>
-    <img src="https://img.shields.io/github/repo-size/MaybeBots/SessionBot?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/MaybeBots/SessionBot?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/MaybeBots/SessionBot?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/repo-size/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/THE-VIP-BOY-OP/VIP-HACK-BOT?style=for-the-badge" alt="Issues">
 </p>
 
 ## Config Vars
@@ -17,7 +17,7 @@
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
 3. `BOT_TOKEN` : A valid bot token, get it from [@BotFather](https://t.me/BotFather)
-4. `SUDOERS` : Sudo ids (Example: 1357907531 2468097531 3579864213)
+4. `SUDOERS` : Sudo user ids.
 5. `MONGO_URL` : A Mongo Url for storing user ids, get it from cloud.mongodb.com
 6. `LOG_GROUP_ID` : Your channel's or group's Telegram id (Example: -1001246808642)
 7. `MUST_JOIN` : Telegram channel(username) for force subs
@@ -61,13 +61,3 @@ cp example.env .env
 ```
 python3 -m Hack
 ```
-
-## Support
-
-- [Channel](https://t.me/Maybebots)
-- [Group](https://t.me/MaybeBotsSupport)
-
-## Credits
-
-- [Telethon](https://github.com/LonamiWebs/Telethon)
-- [Ultroid](https://github.com/TeamUltroid/Ultroid)
